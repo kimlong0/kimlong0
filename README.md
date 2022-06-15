@@ -3,8 +3,8 @@
 I am a Finance and Information Systems undergrad at the University of Washington.
 
 * :email: ft.kimlong@gmail.com
-* :blue_book: [linkedin.com/in/kimlong-nguyen](linkedin.com/in/kimlong-nguyen)
-* :octocat: [github.com/kimlong0](github.com/kimlong0) 
+* :blue_book: [linkedin.com/in/kimlong-nguyen](www.linkedin.com/in/kimlong-nguyen)
+* :octocat: [github.com/kimlong0](www.github.com/kimlong0) 
 * :phone: (206)-605-6173
 
 ### EDUCATION												   
