@@ -3,8 +3,8 @@
 I am a Finance and Information Systems undergrad at the University of Washington.
 
 * :email: ft.kimlong@gmail.com
-* :blue_book: [linkedin.com/in/kimlong-nguyen](www.linkedin.com/in/kimlong-nguyen)
-* :octocat: [github.com/kimlong0](www.github.com/kimlong0) 
+* :blue_book: [linkedin.com/in/kimlong-nguyen](https://www.linkedin.com/in/kimlong-nguyen)
+* :octocat: [github.com/kimlong0](https://www.github.com/kimlong0) 
 * :phone: (206)-605-6173
 
 ### EDUCATION												   
@@ -24,6 +24,7 @@ Cumulative Score: 95%
 Seattle, WA
 *Blockchain Technology Specialist Intern*	
 10/2021 - Present
+
 * Assisted with the implementation of  blockchain technology within technical and financial constraints.
 * Analyzed different deployment costs of smart contracts across various networks and protocols.
 * Supported the design of the internal token ledger system along with the utility of the product.
@@ -31,6 +32,7 @@ Seattle, WA
 **Blockchain Society at the University of Washington**	           		     Seattle, WA
 *Finance Officer*
 10/2021 - Present
+
 * Analyzed and pitched various decentralized finance protocols for the treasury.
 * Assisted with business development including partnerships, sponsorships, and talks.
 * Performed blockchain demos on DEXs, Bridges, Dapps, and NFTs.
@@ -39,6 +41,7 @@ Seattle, WA
 Seattle, WA
 *IOT, Blockchain, and Supply Chain Researcher*
 10/2020 - 06/2021
+
 * Researched the applications of blockchain technology in the logistics and supply chain industry.
 * Worked in a team environment to deliver scholarly papers and decentralized applications.
 * Interacted with public EVM blockchains to improve research analysis.
@@ -47,6 +50,7 @@ Seattle, WA
 **Family**
 *Portfolio Manager*
 03/2018 - Present
+
 * Managed family’s 401Ks, IRAs, and other financial accounts.
 * Utilized a combination of traditional and decentralized finance tools to maximize risk adjusted returns.
 Advised and planned financial prospects based on the client's situation and goals.
@@ -54,12 +58,14 @@ Advised and planned financial prospects based on the client's situation and goal
 **Car Wash Enterprises**
 *Person in Charge*
 04/2019 - 08/2021
-Managed a team of five to maintain and mechanical functions and duties of the wash.
-Facilitated an upwards of 1,200 daily customers with sales, vehicle guiding, and membership assistance.
+
+* Managed a team of five to maintain and mechanical functions and duties of the wash.
+* Facilitated an upwards of 1,200 daily customers with sales, vehicle guiding, and membership assistance.
 
 **Tech Club**
 *Co-Founder*
 09/2017 - 06/2019
+
 * Led various technical projects including the construction and fixing of computers, drones, and other devices
 
 ### SKILLS & ADDITIONAL INFORMATION								
