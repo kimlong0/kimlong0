@@ -1,11 +1,11 @@
-# Hello! I am Kimlong Nguyen
+# Hello! I am Kimlong Nguyen :smile:
 
 I am a Finance and Information Systems undergrad at the University of Washington.
 
-* ft.kimlong@gmail.com 
-* linkedin.com/in/kimlong-nguyen
-* github.com/kimlong0 
-* (206)-605-6173
+* :email: ft.kimlong@gmail.com
+* :blue_book: linkedin.com/in/kimlong-nguyen
+* :octocat: github.com/kimlong0 
+* :phone: (206)-605-6173
 
 ### EDUCATION												   
 * University of Washington, Michael G. Foster School of Business
@@ -37,7 +37,7 @@ Seattle, WA
 
 **University of Washington**
 Seattle, WA
-IOT, Blockchain, and Supply Chain Researcher
+*IOT, Blockchain, and Supply Chain Researcher*
 10/2020 - 06/2021
 * Researched the applications of blockchain technology in the logistics and supply chain industry.
 * Worked in a team environment to deliver scholarly papers and decentralized applications.
@@ -63,10 +63,11 @@ Facilitated an upwards of 1,200 daily customers with sales, vehicle guiding, and
 * Led various technical projects including the construction and fixing of computers, drones, and other devices
 
 ### SKILLS & ADDITIONAL INFORMATION								
-Skills 
+**Skills** 
 * Blockchain interaction (Web 3.0), specifically decentralized finance applications
 * Competent in finance concepts: Financial Statements, DCF Valuations, Risk Analysis
 * Technical experience in Microsoft Suite, Java, Python, R, SQL, Web Dev, and Wireshark.
-Languages
+
+**Languages**
 * Fluent in English and Vietnamese, Conversational Spanish
-* Interests: Blockchain technology, Personal Finance, Cars, Movie Fanatic, Live Concerts 
+* Interests: :lock:Blockchain technology, :ledger:Personal Finance, :car:Cars, :movie_camera:Movie Fanatic, :musical_note:Live Concerts 
