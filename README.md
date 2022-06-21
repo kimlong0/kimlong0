@@ -11,7 +11,7 @@ I am a Finance and Information Systems undergrad at the University of Washington
 * University of Washington, Michael G. Foster School of Business
 Seattle, WA 2023
 Bachelor of Arts in Business Administration: Finance and Information Systems
-Cumulative GPA: 3.58/4.0                    
+Cumulative GPA: 3.61/4.0                    
 
 Relevant Coursework: Database Management ∙ Application Programing ∙ Networks & Cybersecurity ∙ Data Science	 
 
@@ -77,3 +77,7 @@ Advised and planned financial prospects based on the client's situation and goal
 **Languages**
 * Fluent in English and Vietnamese, Conversational Spanish
 * Interests: :lock:Blockchain technology, :ledger:Personal Finance, :car:Cars, :movie_camera:Movie Fanatic, :musical_note:Live Concerts 
+
+**Recent Works**
+* [Gender Wage Gap 2015](https://matthewchung.shinyapps.io/final-project/)
+* [Climate Change](https://info-201a-sp22.github.io/a3-incarceration-kimlong0/)
