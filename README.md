@@ -4,8 +4,7 @@ I am a Finance and Information Systems undergrad at the University of Washington
 
 * :email: ft.kimlong@gmail.com
 * :blue_book: [linkedin.com/in/kimlong-nguyen](https://www.linkedin.com/in/kimlong-nguyen)
-* :octocat: [github.com/kimlong0](https://www.github.com/kimlong0) 
-* :phone: (206)-605-6173
+* :octocat: [github.com/kimlong0](https://www.github.com/kimlong0)
 
 ### EDUCATION												   
 * University of Washington, Michael G. Foster School of Business
@@ -80,4 +79,4 @@ Advised and planned financial prospects based on the client's situation and goal
 
 **Recent Works**
 * [Gender Wage Gap 2015](https://matthewchung.shinyapps.io/final-project/)
-* [Climate Change](https://info-201a-sp22.github.io/a3-incarceration-kimlong0/)
+* [U.S Incarceration](https://info-201a-sp22.github.io/a3-incarceration-kimlong0/)
