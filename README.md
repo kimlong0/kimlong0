@@ -1,82 +1,22 @@
-# Hello! I am Kimlong Nguyen :smile:
+<h1 align="center">Hi 👋, I'm Kimlong Nguyen</h1>
+<h3 align="center">I am a Finance and Information Systems student at the University of Washington</h3>
 
-I am a Finance and Information Systems undergrad at the University of Washington.
+- 🔭 I’m currently working on [projects related to blockchain or front-end.](https://www.uwblockchain.org/)
 
-* :email: ft.kimlong@gmail.com
-* :blue_book: [linkedin.com/in/kimlong-nguyen](https://www.linkedin.com/in/kimlong-nguyen)
-* :octocat: [github.com/kimlong0](https://www.github.com/kimlong0)
+- 🌱 I’m currently learning **React**
 
-### EDUCATION												   
-* University of Washington, Michael G. Foster School of Business
-Seattle, WA 2023
-Bachelor of Arts in Business Administration: Finance and Information Systems
-Cumulative GPA: 3.61/4.0                    
+- 👨‍💻 My featured projects are available at [https://kimlong0.github.io/portfolio/](https://kimlong0.github.io/portfolio/)
 
-Relevant Coursework: Database Management ∙ Application Programing ∙ Networks & Cybersecurity ∙ Data Science	 
+- 📫 How to reach me **ft.kimlong@gmail.com**
 
-* Foster Microsoft Excel Credential Completed 02/2022
-Enhanced Excel skills: Data Manipulation, PivotTables, lookups, functions, and charts.
-Cumulative Score: 95%
+- ⚡ Fun fact **I got to a lot of concerts.**
 
-### RELEVANT WORK EXPERIENCE									
-**Invata**
-Seattle, WA
-*Blockchain Technology Specialist Intern*	
-10/2021 - Present
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xkimlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xkimlong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kimlong-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kimlong-nguyen/" height="30" width="40" /></a>
+</p>
 
-* Assisted with the implementation of  blockchain technology within technical and financial constraints.
-* Analyzed different deployment costs of smart contracts across various networks and protocols.
-* Supported the design of the internal token ledger system along with the utility of the product.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-**Blockchain Society at the University of Washington**	           		     Seattle, WA
-*Finance Officer*
-10/2021 - Present
-
-* Analyzed and pitched various decentralized finance protocols for the treasury.
-* Assisted with business development including partnerships, sponsorships, and talks.
-* Performed blockchain demos on DEXs, Bridges, Dapps, and NFTs.
-
-**University of Washington**
-Seattle, WA
-*IOT, Blockchain, and Supply Chain Researcher*
-10/2020 - 06/2021
-
-* Researched the applications of blockchain technology in the logistics and supply chain industry.
-* Worked in a team environment to deliver scholarly papers and decentralized applications.
-* Interacted with public EVM blockchains to improve research analysis.
-
-### LEADERSHIP ACTIVITIES										
-**Family**
-*Portfolio Manager*
-03/2018 - Present
-
-* Managed family’s 401Ks, IRAs, and other financial accounts.
-* Utilized a combination of traditional and decentralized finance tools to maximize risk adjusted returns.
-Advised and planned financial prospects based on the client's situation and goals.
- 
-**Car Wash Enterprises**
-*Person in Charge*
-04/2019 - 08/2021
-
-* Managed a team of five to maintain and mechanical functions and duties of the wash.
-* Facilitated an upwards of 1,200 daily customers with sales, vehicle guiding, and membership assistance.
-
-**Tech Club**
-*Co-Founder*
-09/2017 - 06/2019
-
-* Led various technical projects including the construction and fixing of computers, drones, and other devices
-
-### SKILLS & ADDITIONAL INFORMATION								
-**Skills** 
-* Blockchain interaction (Web 3.0), specifically decentralized finance applications
-* Competent in finance concepts: Financial Statements, DCF Valuations, Risk Analysis
-* Technical experience in Microsoft Suite, Java, Python, R, SQL, Web Dev, and Wireshark.
-
-**Languages**
-* Fluent in English and Vietnamese, Conversational Spanish
-* Interests: :lock:Blockchain technology, :ledger:Personal Finance, :car:Cars, :movie_camera:Movie Fanatic, :musical_note:Live Concerts 
-
-**Recent Works**
-* [Gender Wage Gap 2015](https://matthewchung.shinyapps.io/final-project/)
-* [U.S Incarceration](https://info-201a-sp22.github.io/a3-incarceration-kimlong0/)
