@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My featured projects are available at [https://kimlong0.github.io/portfolio/](https://kimlong0.github.io/portfolio/)
+- 👨‍💻 My featured projects are available at [https://kimlong-portfolio.web.app](https://kimlong-portfolio.web.app)
 
 - 📫 How to reach me **ft.kimlong@gmail.com**
 
