@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [projects related to blockchain or front-end.](https://www.uwblockchain.org/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS** & **TypeScript**
 
 - 👨‍💻 My featured projects are available at [https://kimlong-portfolio.web.app](https://kimlong-portfolio.web.app)
 
